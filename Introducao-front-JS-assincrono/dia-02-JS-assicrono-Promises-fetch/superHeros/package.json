@@ -1,0 +1,17 @@
+{
+  "name": "superheros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "sweetalert2": "^11.7.12",
+    "vite": "^4.3.9"
+  }
+}
